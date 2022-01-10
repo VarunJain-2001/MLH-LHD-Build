@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+/* yellow : #EBB028 */
+
+body{
+    background-color:#1C4F97;
+    color: #EBB028;
+}
+
+#tableBody td{
+    color:#EBB028;
+}
+table thead th{
+    color:#EBB028;
+}
+
+table thead tr th{
+     border: 1px solid #EBB028;
+}
+
+
+table td{
+    border: 1px solid #EBB028;
+}
+
+input[type="text"] {
+    background-color : #1c4f97; 
+    border: 2px solid #EBB028;
+}
+input[type="checkbox"] {
+    background-color : #1c4f97; 
+    border: 2px solid #EBB028;
+}
